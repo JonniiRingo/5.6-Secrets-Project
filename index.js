@@ -1,6 +1,5 @@
 // HINTS:
 
-// 2. Create an express app and set the port number.
 
 // 3. Use the public folder for static files.
 
